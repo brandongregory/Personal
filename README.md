@@ -32,7 +32,7 @@ In order to have some semblance of accountability and transparency, I'm choosing
 - [ ] **January**:
 - [x] **February**: *Design is a Job*, *An Unquiet Mind*
 - [x] **March**: *Technically Wrong*, *The Bell Jar*
-- [ ] **April**:
+- [x] **April**: *Brave New World*
 - [ ] **May**:
 - [ ] **June**:
 - [ ] **July**
@@ -60,4 +60,4 @@ In order to have some semblance of accountability and transparency, I'm choosing
 
 ### 6. Finish reviewing my list on my movie site
 
-96 out of 153 = **57 to go**
+105 out of 154 = **49 to go**
