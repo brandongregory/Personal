@@ -60,4 +60,4 @@ In order to have some semblance of accountability and transparency, I'm choosing
 
 ### 6. Finish reviewing my list on my movie site
 
-108 out of 155 = **47 to go**
+110 out of 155 = **45 to go**
