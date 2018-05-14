@@ -16,7 +16,7 @@ In order to have some semblance of accountability and transparency, I'm choosing
 - [x] [Making CSS Animations Feel More Natural](https://css-tricks.com/making-css-animations-feel-natural/)
 - [x] [Mental Illness in the Web Industry](http://alistapart.com/article/mental-illness-in-the-web-industry)
 - [x] [Want to increase your worth as a developer? Learn to impact the business.](https://blog.logrocket.com/want-to-increase-your-worth-as-a-developer-learn-to-impact-the-business-f7f78ec23ff5)
-- [ ] *nothing yet*
+- [x] [So You Want to Write an Article?](http://alistapart.com/article/so-you-want-to-write-an-article)
 - [ ] *nothing yet*
 
 ### 2. Put in another book proposal somewhere
